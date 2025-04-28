@@ -16,7 +16,7 @@ This project predicts wine quality using classical machine learning models.
      ```
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/WineQualityPrediction.git
+     git clone https://github.com/Bao-Trinh-Quoc/WineQualityPrediction.git
      cd WineQualityPrediction
      ```
    - Run the `.ipynb` file:
